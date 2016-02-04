@@ -3,7 +3,7 @@
 # rename series of frames
 #
 
-print "Gilad Nadav\n";
+print "Gilad Nadav 123\n";
 print "Welcome!\n";
 exit();
 if ($#ARGV != 3) {
