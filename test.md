@@ -4,13 +4,15 @@ The Kaltura Player exposes several APIs that are used for loading, configuring, 
 
 ## Table of Contents
 
-- [Load A Playlist](#load-a-playlist)
+- [Load Playlist](#load-playlist)
   - [By Playlist ID](#by-playlist-id-ovp-only)
   - [By Entry List](#by-entry-list)
   - [By Configuration](#by-configuration)
 - [Configure the Playlist](#configure-the-playlist)
+- [Playlist Interface](#playlist-interface)
 - [Switching Items](#switching-items)
 - [Change Playlist](#change-playlist)
+- [Playlist Events](#playlist-events)
 
 ### Load A Playlist
 
